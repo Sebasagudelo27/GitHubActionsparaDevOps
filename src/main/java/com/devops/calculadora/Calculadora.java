@@ -81,5 +81,5 @@ public class Calculadora {
         return resultado;
     }
 
-    //cambio para hacer el push de ejempplo y ver que el pipeline este funcionando:
+    //cambio para hacer el push de ejempplo y ver que el pipeline este funcionando en el video correctamente:
 }
