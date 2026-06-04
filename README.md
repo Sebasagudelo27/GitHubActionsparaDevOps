@@ -1,5 +1,10 @@
 # 🚀 Calculadora DevOps — CI/CD con GitHub Actions, JaCoCo y SonarCloud
 
+Integrantes: 
+William Barrero
+Hanner conde
+Sebastian Agudelo
+
 Proyecto Java con Maven que implementa un flujo completo de **integración continua (CI/CD)** usando:
 
 - ✅ **GitHub Actions** — automatización del pipeline
